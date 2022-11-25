@@ -2,7 +2,7 @@
 
  
 
-<img src="https://github.com/rajtilakls2510/car_price_predictor/blob/master/demo.png">
+<img src="https://raw.githubusercontent.com/HEYRAIAMAN/car_price_predictor/master/demo.png">
 
 
 
