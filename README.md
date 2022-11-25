@@ -43,7 +43,7 @@ Link for data: https://github.com/HEYRAIAMAN/car_price_predictor-/blob/main/Quik
 
 3. Then a Linear Regression model was built on top of it which had 0.92 R2_score.
 
-Link for notebook: https://github.com/rajtilakls2510/car_price_predictor/blob/master/Quikr%20Analysis.ipynb
+Link for notebook: https://github.com/HEYRAIAMAN/car_price_predictor-/blob/main/Data_analysis.ipynb
 
 4. This project was given the form of an website built on Flask where we used the Linear Regression model to perform predictions.
 
